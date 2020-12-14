@@ -1,0 +1,6 @@
+json==2.0.9
+emoji==0.6.0
+sys==3.8.3 (default, Jul  2 2020, 17:30:36) [MSC v.1916 64 bit (AMD64)]
+re==2.2.1
+pandas==1.0.5
+nltk==3.5
