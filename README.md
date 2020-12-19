@@ -1,4 +1,11 @@
-# DM_Project
+# Tweets Clustering in python
+
+# Introduction :
+
+Twitter est un réseau social dit de « microblogging » qui permet de communiquer sous la forme de messages courts ne dépassant pas 140 caractères appelés « tweets ». Ils peuvent contenir des URL sous forme raccourcie, des images, des émoticônes, des gifs animés et des vidéos.
+
+# objectif :
+
 l'objectif du projet est de: 
 
 • Maitriser l’API de twitter pour l’extraction des tweets.
