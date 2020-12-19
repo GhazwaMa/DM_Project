@@ -13,7 +13,8 @@ l'objectif du projet est de:
 
 1- dans la première partie on a collecter les tweet à l'aide du bibliotheque *tweepy*, les tweet sont stockées dans des fichiers json.
 
-> les tweets collectés doivent être netoyés
+*les tweets collectés doivent être netoyés*
+
 # Prétraitement des tweets
 Le nettoyage des tweets comprendra plusieurs choses :
 
@@ -22,3 +23,11 @@ Le nettoyage des tweets comprendra plusieurs choses :
 > - Retirer les caractères spéciaux : très facile avec les reg-ex mais tous les caractères ne seront pas retirés dans un premier temps. Les tweets sont des objets très sales !.
 > - Retirer les chiffres : avec une Reg-ex aussi.
 > - Changer les lettres majuscules en minuscules
+
+
+# Clustering
+
+> - extracting key words
+> - Finding Optimal Clusters ( k=23 )
+> - Plotting Clusters
+> - printing tweets per cluster
