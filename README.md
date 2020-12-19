@@ -1,4 +1,5 @@
 # Tweets Clustering in python
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GhazwaMa/DM_Project/main?filepath=projet_DM.ipynb)
 
 # Introduction :
 
